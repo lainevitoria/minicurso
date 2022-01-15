@@ -16,3 +16,9 @@ main {
     justify-content: center;
     position: relative;
 }
+
+main > section img {
+    height: 110px;
+    margin: 5px 10;
+    width: 130px;
+}
