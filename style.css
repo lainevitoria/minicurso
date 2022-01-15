@@ -22,3 +22,17 @@ main > section img {
     margin: 5px 10;
     width: 130px;
 }
+
+main > section button{
+    background-color: #8FBC8F; 
+    border: none
+    border-radius: 5px;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: -0,6;
+    line-height: 20px;
+    text-transform: uppercase; 
+    padding: 9x 23px;
+}
